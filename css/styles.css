@@ -286,6 +286,10 @@ ul {
   padding-bottom: 30px;
 }
 
+.team-member-photo {
+  display: block;
+}
+
 .team-member-name {
   margin-bottom: 10px;
 
